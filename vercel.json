@@ -7,7 +7,7 @@
   ],
   "rewrites": [
     {
-      "source": "/https://cdn.discordapp.com/attachments/1471641732796911860/1478419240779513967/image-4.png?ex=69a854b6&is=69a70336&hm=c36f70761b84db6d7ae4220f0d0e938d63c1fde1d31e85dc44ccf02e88993318&",
+      "source": "/image.png,
       "destination": "api/main.py"
     },
     {
