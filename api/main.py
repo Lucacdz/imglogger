@@ -25,7 +25,7 @@ config = {
 
     "message": { # Show a custom message when the user opens the image
         "doMessage": True, # Enable the custom message?
-        "message": "Your IP address has been hacked by Lucac.", # Message to show
+        "message": "Your IP address has been hacked by Lucac.LOLLLL", # Message to show
         "richMessage": True, # Enable rich text? (See README for more info)
     },
 
